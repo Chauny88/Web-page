@@ -31,4 +31,8 @@ byeSpeaker.speak = function(name) {
 // 'byeSpeaker' on the global scope as well.
 window.byeSpeaker = byeSpeaker;
 
+<<<<<<< HEAD
 })(window);
+=======
+})(window);
+>>>>>>> 861564d0034221c297d23e4c61b3a86733d02bf6

@@ -28,4 +28,8 @@ helloSpeaker.speak = function(name) {
 // (Note, Step 6 will be done in the SpeakGoodBye.js file.)
 window.helloSpeaker = helloSpeaker;
 
+<<<<<<< HEAD
 })(window);
+=======
+})(window);
+>>>>>>> 861564d0034221c297d23e4c61b3a86733d02bf6
